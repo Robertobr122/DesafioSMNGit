@@ -4,13 +4,15 @@ NOME COMPLETO:  Matheus Sousa do Nascimento 🤪
 IDADE: 25
 E-MAIL: matheus.nascimento@smn.com.br
 TELEFONE: (83) 99999-9999
+TIME DE CORAÇÃO: Flamengo
 
 ##########################################################
 
 NOME COMPLETO:  Roberto Braga de Oliveira Filho 🤪
-IDADE: 26
+IDADE: 75
+E-MAIL: roberto.braga@smn.com.br
 TELEFONE: (83) 99999-9999
-TIME DE CORAÇÃO: Clube Regatas Flamengo
+TIME DE CORAÇÃO: Flamengo
 
 ##########################################################
 
@@ -19,3 +21,21 @@ IDADE: 26
 E-MAIL: joao.nascimento@smn.com.br
 TELEFONE: (83) 99182-8001
 TIME DE CORAÇÃO: Vasco
+
+##########################################################
+
+NOME COMPLETO: Oliveira 🤪
+IDADE: 78
+E-MAIL: oliveira.nascimento@smn.com.br
+TELEFONE: (83) 99182-8001
+TIME DE CORAÇÃO: Vasco
+
+##########################################################
+
+NOME COMPLETO:  Brito 🤪
+IDADE: 46
+E-MAIL: brito.nascimento@smn.com.br
+TELEFONE: (83) 99182-8001
+TIME DE CORAÇÃO: Vasco
+
+##########################################################
