@@ -5,3 +5,11 @@ IDADE: 25
 E-MAIL: matheus.nascimento@smn.com.br
 TELEFONE: (83) 99182-8002
 TIME DE CORAÇÃO: Clube Regatas Flamengo
+
+##########################################################
+
+NOME COMPLETO:  João Oliveira 🤪
+IDADE: 26
+E-MAIL: joao.nascimento@smn.com.br
+TELEFONE: (83) 99182-8001
+TIME DE CORAÇÃO: Vasco
